@@ -14,3 +14,5 @@ include:
     shield: totem_dongle
   - board: seeeduino_xiao_ble
     shield: settings_reset
+  - board: puchi_ble_v1
+    shield: corne_right oled_adapter_pro_micro_128x64
